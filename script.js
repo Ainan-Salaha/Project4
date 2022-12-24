@@ -13,7 +13,7 @@ function displayTime() {
     if (hrs >= 12 && hrs <= 15) {
         image.src ="img/Component 31 – 1.jpg";
         changeText.innerHTML = "LET'S HAVE SOME LUNCH !!"
-        changeText1.innerHTML ="GOOD AFTERNOON !! TAKE SOME SLEEP";
+        changeText1.innerHTML ="GOOD AFTERNOON ";
     }
 
     else if (hrs >= 16 && hrs <= 19) {
